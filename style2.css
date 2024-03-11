@@ -1,0 +1,74 @@
+
+body{
+    text-align: center;
+}
+#Q{
+    background-color: aliceblue;
+    text-align: center;
+}
+#Mac{
+    background-color: blue;
+    display: inline-block;
+    border-radius: 20px;
+    width: 200px;
+    height: 30;
+    text-align: center;
+    padding: 5px;
+}
+#Ios{
+    background-color: rgb(51, 153, 61);
+    display: inline-block;
+    border-radius: 20px;
+    width: 200px;
+    height: 30px;  
+    text-align: center;
+    padding: 5px;
+    margin-right: 5px;
+}
+#Q Ios{
+    background-color:darkgreen;
+}
+#im{
+    text-align: center;
+    background-color: rgb(159, 152, 142);
+}
+h{
+    text-align: center;
+}
+z{
+    text-align: center;
+}
+c{
+    text-align: center;
+}
+
+#v{
+    text-align: center;
+    width: 30;
+}
+
+#o{
+
+    text-align: center;
+    display: inline-block;
+width: 30%;
+
+}
+#f{
+    text-align: center;
+    width: 30%;
+
+    
+}
+@media (max-width: 700px)
+{
+    img{
+        width: 400px;
+    }
+}
+@media (max-width: 400px)
+{
+    img{
+        width: 200px;
+    }
+}
